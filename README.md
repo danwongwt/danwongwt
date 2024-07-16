@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🧟‍♂️ A frontend developer  🧟‍♂️</p>
+<h4 align="left">🧟‍♂️ A frontend developer  🧟‍♂️</h4>
 
 ###
 
