@@ -40,10 +40,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/danwongwt/danwongwt/output/snake.svg" alt="Snake animation" />
-
-###
