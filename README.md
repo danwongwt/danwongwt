@@ -3,7 +3,7 @@
 ###
 
 <p>
-I'm a frontend enthusiast diving deep into the React ecosystem. With a toolkit featuring React.js, Next.js, JavaScript, HTML, and CSS, backed by full stack knowledge. My focus is on creating efficient, responsive web applications, while leveraging my understanding of backend technologies to build more comprehensive solutions. 
+I'm a MERN stack enthusiast. With a toolkit featuring React.js, Next.js, JavaScript, HTML, and CSS, backed by full stack knowledge. My focus is on creating efficient, responsive web applications, while leveraging my understanding of backend technologies to build more comprehensive solutions. 
 
 I'm exploring the latest web technologies, dabbling in TypeScript, and experimenting with state management solutions. Let's connect and build something awesome together! 🚀
 </p>
